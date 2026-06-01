@@ -1,0 +1,19 @@
+<table border="1">
+<tr>
+  <td>name</td>
+  <td>roll</td>
+</tr>
+<tr>
+  <td>Rohit</td>
+  <td> Frontend Developer</td>
+</tr>
+<tr>
+  <td>Mohit</td>
+  <td>Backend Developer</td>
+</tr>
+
+  <td>Anjli</td>
+  <td>FullStac Develope</td>
+
+<tr>
+</table>
